@@ -33,7 +33,6 @@
 
 ###
 
-<h4 align="left">Contributions :</h4>
 
 ###
 
