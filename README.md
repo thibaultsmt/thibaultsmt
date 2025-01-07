@@ -1,6 +1,3 @@
-<img align="right" height="120" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZqZWU0NnM2amd1aHJrenY5cHd1ZnVnZms1dnl0MWFvYnR6ZWZvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif"  />
-
-###
 
 <h1 align="left">Hey 👋🏽 <br>Welcome to my universe 🚀</h1>
 
